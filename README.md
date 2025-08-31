@@ -1,7 +1,8 @@
 📝 Typing Test Web App
 A responsive and lightweight Typing Test web application built using HTML, CSS, and JavaScript. It measures typing speed (WPM), accuracy, and time taken — all in real-time. Designed with a clean UI and deployed manually on AWS EC2 using Apache, this project demonstrates hands-on cloud hosting, domain configuration, and Linux-based server management.
 🚀 Live Preview
-Access the app at: http://13.60.60.3
+Access the app at: http://16.16.174.42
+
 
 🔧 Features
 
